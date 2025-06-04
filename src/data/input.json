@@ -1,132 +1,126 @@
 {
     "education": [
         {
-            "course": "B.Tech (Computer Engineering), CGPA - 8.36",
-            "institution": "Delhi Technological University",
-            "location": "Delhi, India",
+            "course": "B.Tech (Computer Science & Engineering - Specialization Cloud Computing & Virtualization Technology), CGPA - 7.85",
+            "institution": "University of Petroleum & Energy Studies",
+            "location": "Dehradun, India",
             "start_date": "August 2017",
             "end_date": "July 2021"
         }
     ],
     "experience": [
         {
-            "title": "Senior Engineer",
-            "company": "Tejas Networks Ltd.",
-            "location": "Gurugram, Haryana, India",
-            "start_date": "April 2024",
-            "end_date": "Present",
-            "description": [
-                "Led the complete architecture design and development of network visualization microservice for BSNL's MPLS-IP based Access and Aggregation Network (MAAN), the backbone for pan India BSNL 4G rollout, using React.js, Cytoscape.js and Express framework.",
-                "Developed microservices for configuration of BGP and RSVP protocols using Spring Boot, adhering to ONF's TAPI and REST standards, contributing to scalable network solutions.",
-                "Devised an efficient report generation utility for resource utilization within a network using Highcharts.js, enabling administrators for efficient monitoring and management of devices.",
-                "Guided cross-functional teams in transitioning version control systems from CVS to Git, improving collaboration efficiency by 50%."
-            ]
-        },
-        {
-            "title": "Research and Development Engineer",
-            "company": "Tejas Networks Ltd.",
-            "location": "Gurugram, Haryana, India",
+            "title": "Associate",
+            "company": "Cognizant Technology Solutions",
+            "location": "Gurugram, India",
             "start_date": "July 2021",
             "end_date": "April 2024",
             "description": [
-                "Led front-end modernization, transitioning legacy Java Swing-based UI to modern React.js architecture with Redux and Material UI, improving load times from 30 seconds to 3 seconds.",
-                "Introduced automated regression testing using Selenium and TestNG, cutting testing efforts by 60% and ensuring 90% test coverage."
+                "Architected and developed enterprise-grade RESTful web services using Java 8, Spring Boot, and MongoDB, serving 500+ concurrent users in a high-volume insurance domain application with 99.5% uptime.",
+                "Accelerated document processing workflows by implementing database optimization strategies including compound indexing, query performance tuning, and MongoDB aggregation pipeline optimization, resulting in 50% faster document search capabilities and improved end-user productivity.",
+                "Strengthened codebase quality and reliability by conducting thorough debugging sessions, exception handling improvements, and systematic bug resolution across 100+ identified issues, utilizing IDE debugging tools, log analysis, and JUnit testing to ensure robust application performance.",
+                "Implemented comprehensive testing strategies using JUnit, Mockito, and integration testing, achieving 85% code coverage through rigorous Test-Driven Development (TDD).",
+				"Led cross-functional collaboration with 5+ teams including frontend (ReactJS), DevOps, MongoDB administrators, and third-party integration teams, utilizing Agile/Scrum methodologies to deliver features 15% ahead of schedule.",
+				"Analyzed and modernized legacy codebase through comprehensive code reviews and technical documentation, creating detailed design specifications for 3 major product enhancements that secured client approval and improved system maintainability.",
+				"Mentored junior developers through Knowledge Transfer sessions on microservices architecture, Spring Boot best practices, and React.js development, contributing to team skill enhancement and project delivery efficiency."
             ]
         },
         {
-            "title": "R & D Engineer Intern",
-            "company": "Tejas Networks Ltd.",
-            "location": "Gurugram, Haryana, India",
+            "title": "Trainee",
+            "company": "Cognizant Technology Solutions",
+            "location": "Remote",
             "start_date": "January 2021",
             "end_date": "July 2021",
             "description": [
-                "Orchestrated multiple network element simulators using Docker, enabling seamless simulation environments for efficient development and testing.",
-                "Worked closely with backend engineers, product managers, and UI/UX designers to deliver cohesive solutions across all stages of the SDLC.",
-                "Improved user experience by implementing asynchronous calls using promises in javascript, reducing overall application loading time from 10 to 0.5 seconds."
-            ]
-        },
-        {
-            "title": "Mobile Frontend Software Engineer Intern",
-            "company": "Stepswatch",
-            "location": "India",
-            "start_date": "March 2020",
-            "end_date": "May 2020",
-            "description": [
-                "Led the UI development of Stepswatch mobile app based on Flux architecture using React Native and Redux achieving intuitive and performant interfaces.",
-                "Implemented fail-safe handling of network requests' side effects using Redux Thunk.",
-                "Built backend microservices, including a real-time chat feature, with Socket.io, ensuring 98% uptime for instant communication.",
-                "Secured user data by implementing JWT-based authentication within Express microservices, maintaining a 99% success rate in safeguarding information."
+                "Completed intensive 5-month Java Full-Stack training program covering Core Java, Spring Framework, Hibernate ORM, RESTful web services, and frontend technologies.",
+                "Developed end-to-end pension provisioning portal using React.js, implementing automated workflows that reduced manual processing time by 70% and improved data accuracy."
             ]
         }
     ],
     "skills": [
+		{
+			"title": "Experience",
+			"elements": [
+				"~3 y.o.e as a Software Engineer. Experienced in Agile/Scrum methodologies, CI/CD practices, and cloud technologies."
+			]
+		},
+		{
+			"title": "Skill Highlight",
+			"elements": [
+				"Specializing in Java and Spring Boot, developing and deploying RESTful web services."
+			]
+		},
         {
             "title" : "Programming Languages",
             "elements" : [
-                "JavaScript",
-                "C++",
-                "Java",
-                "Python"
+                "Java (8, 11, 21)",
+                "JavaScript"
             ]
         },
         {
             "title" : "Frameworks and Libraries",
             "elements" : [
+                "Spring Boot",
+                "Spring Framework (Spring Data, Spring MVC, Spring Security)",
                 "React.js",
-                "React Native",
-                "Redux",
-                "Express",
-                "Node.js",
-                "Selenium",
-                "socket.io",
-                "Spring",
-                "Spring boot"
+				"Hibernate"
             ]
         },
-
         {
             "title" : "Tools",
             "elements" : [
-                "Docker",
-                "Git",
-                "Jira",
-                "Linux",
-                "CVS"
+				"Maven",
+				"Gradle",
+                "Docker", 
+				"Apache Kafka",
+				"Redis",
+				"SonarQube",
+				"Git", 
+				"Swagger/OpenAPI",
+				"Jira", 
+				"Slack", 
+				"qTest", 
+				"Linux", 
+				"Intellij IDEA"
             ]
         },
-
         {
             "title" : "Databases",
             "elements" : [
+				"PostgreSQL",
                 "MySQL",
                 "MongoDB"
             ]
         },
-
         {
-            "title" : "Cloud",
+            "title" : "Cloud Technologies",
             "elements" : [
-                "Microsoft Azure",
-                "GCP",
-                "AWS"
+                "AWS (EC2, RDS, S3, Lambda)",
+				"Self-Hosting"
+            ]
+        },
+		{
+            "title" : "Methodologies & Concepts",
+            "elements" : [
+                "RESTful APIs",
+				"Microservices Architecture",
+				"Agile/Scrum",
+				"Test-Driven Development (TDD)",
+				"Database Optimization",
+				"CI/CD (GitLab CI, GitHub Actions)"
             ]
         }
     ],
     "projects": [
         {
-            "title": "Blog portal (In progress)",
-            "description": "A blog management and reading portal, based on microservices architecture, built using MERN stack with Nginx as reverse proxy, and being tracked using GitHub Projects. Currently having <a href=\"https://github.com/MohitR1999/portfolio-auth-microservice/\" color=\"blue\">Authentication microservice</a> and <a href=\"https://github.com/MohitR1999/portfolio-blog-microservice/\" color=\"blue\">Blog microservice</a>. ",
-            "link": "<a href=\"https://github.com/MohitR1999/portfolio-service\" color=\"blue\">(GitHub Monorepo)</a>"
+            "title": "Beehive",
+            "description": "Developed a full-stack social media application (monolithic architecture). Backend: Spring Boot & MySQL for robust user data and content management. Implemented RESTful APIs ensuring efficient frontend-backend communication. Frontend: ReactJS with Radix & shadcn/ui for an intuitive and engaging user experience.",
+            "link": "<a href=\"https://github.com/sadbirby/beehive\" color=\"blue\">(GitHub)</a>"
         },
         {
-            "title": "Resume generator",
-            "description": "Developed a user-friendly resume generator in Python, designed to be ATS-friendly, configurable, and effortlessly usable. This resume was generated using the tool.",
-            "link": "<a href=\"https://github.com/MohitR1999/ats-friendly-resume\" color=\"blue\">(GitHub)</a>"
-        },
-        {
-            "title": "Vitarit File Pranali",
-            "description": "Implemented a distributed file system using Python and rpyc, demonstrating the foundational concepts of data replication and redundancy.",
-            "link": "<a href=\"https://github.com/MohitR1999/vitarit-file-pranali\" color=\"blue\">(GitHub)</a>"
+            "title": "Leaguewatch",
+            "description": "Developed a full-stack web application using microservices architecture. Integrated API Gateway, Service Discovery, and Configuration Server for efficient inter-service communication and scalability. Ensured robust code quality and reliability via comprehensive unit/integration tests using JUnit, Mockito (backend), and Jest (frontend).",
+            "link": "<a href=\"https://github.com/sadbirby/leaguewatch\" color=\"blue\">(GitHub)</a>"
         }
     ]
 }

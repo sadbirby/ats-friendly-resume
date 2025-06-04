@@ -122,9 +122,9 @@ if __name__ == "__main__":
         skill_elements.append(get_skills_element(element))
     
     resume_data['education'] = Section('Education', education_elements)
-    resume_data['experience'] = Section('Experience', experience_elements)
+    resume_data['experience'] = Section('Professional Experience', experience_elements)
     resume_data['projects'] = Section('Projects', project_elements)
-    resume_data['skills'] = Section('Skills', skill_elements)
+    resume_data['skills'] = Section('Career Summary', skill_elements)
     
     # Prepare a table
     # Append the name and contact

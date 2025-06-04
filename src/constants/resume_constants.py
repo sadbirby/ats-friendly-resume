@@ -5,8 +5,8 @@ from reportlab.lib import colors
 
 RESUME_ELEMENTS_ORDER = [
     'skills',
-    'projects',
     'experience',
+    'projects',
     'education',
     'achievements',
     'certifications'
