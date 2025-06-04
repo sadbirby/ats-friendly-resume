@@ -131,11 +131,13 @@ if __name__ == "__main__":
     table.append([
         Paragraph(author, NAME_PARAGRAPH_STYLE)
     ])
+    table_styles.append(('SPAN', (0, running_row_index[0]), (1, running_row_index[0])))
     running_row_index[0] += 1
     
     table.append([
         Paragraph(f"{email} | {phone} | {address}", CONTACT_PARAGRAPH_STYLE),
     ])
+    table_styles.append(('SPAN', (0, running_row_index[0]), (1, running_row_index[0])))
     table_styles.append(('BOTTOMPADDING', (0, running_row_index[0]), (1, running_row_index[0]), 1))
     running_row_index[0] += 1
     

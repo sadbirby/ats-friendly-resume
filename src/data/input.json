@@ -20,7 +20,7 @@
                 "Accelerated document processing workflows by implementing database optimization strategies including compound indexing, query performance tuning, and MongoDB aggregation pipeline optimization, resulting in 50% faster document search capabilities and improved end-user productivity.",
                 "Strengthened codebase quality and reliability by conducting thorough debugging sessions, exception handling improvements, and systematic bug resolution across 100+ identified issues, utilizing IDE debugging tools, log analysis, and JUnit testing to ensure robust application performance.",
                 "Implemented comprehensive testing strategies using JUnit, Mockito, and integration testing, achieving 85% code coverage through rigorous Test-Driven Development (TDD).",
-				"Led cross-functional collaboration with 5+ teams including frontend (ReactJS), DevOps, MongoDB administrators, and third-party integration teams, utilizing Agile/Scrum methodologies to deliver features 15% ahead of schedule.",
+				"Led cross-functional collaboration with 5+ teams including frontend (React.js), DevOps, MongoDB administrators, and third-party integration teams, utilizing Agile/Scrum methodologies to deliver features 15% ahead of schedule.",
 				"Analyzed and modernized legacy codebase through comprehensive code reviews and technical documentation, creating detailed design specifications for 3 major product enhancements that secured client approval and improved system maintainability.",
 				"Mentored junior developers through Knowledge Transfer sessions on microservices architecture, Spring Boot best practices, and React.js development, contributing to team skill enhancement and project delivery efficiency."
             ]
@@ -114,7 +114,7 @@
     "projects": [
         {
             "title": "Beehive",
-            "description": "Developed a full-stack social media application (monolithic architecture). Backend: Spring Boot & MySQL for robust user data and content management. Implemented RESTful APIs ensuring efficient frontend-backend communication. Frontend: ReactJS with Radix & shadcn/ui for an intuitive and engaging user experience.",
+            "description": "Developed a full-stack social media application (monolithic architecture). Backend: Spring Boot & MySQL for robust user data and content management. Implemented RESTful APIs ensuring efficient frontend-backend communication. Frontend: React.js with Radix & shadcn/ui for an intuitive and engaging user experience.",
             "link": "<a href=\"https://github.com/sadbirby/beehive\" color=\"blue\">(GitHub)</a>"
         },
         {
